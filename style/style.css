@@ -1,0 +1,13 @@
+body {
+    background-image: url('./images/texture-background.jpg');
+}
+
+#containment-wrapper {
+    height: 80vh;
+}
+
+#doge-meme-pic {
+    height: 50vh;
+    width: auto;
+    border-radius: 11%;
+}
